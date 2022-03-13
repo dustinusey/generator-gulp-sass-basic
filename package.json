@@ -1,6 +1,6 @@
 {
   "name": "generator-gulp-sass-basic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generates starter files for basic gulp-sass workflow (frontend)",
   "main": "index.js",
   "scripts": {
