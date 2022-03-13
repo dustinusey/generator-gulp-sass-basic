@@ -1,0 +1,23 @@
+{
+  "name": "generator-gulp-sass-basic",
+  "version": "1.0.0",
+  "description": "Generates starter files for basic gulp-sass workflow (frontend)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustinusey/generator-gulp-sass-basic.git"
+  },
+  "keywords": [],
+  "author": "Dustin Usey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dustinusey/generator-gulp-sass-basic/issues"
+  },
+  "homepage": "https://github.com/dustinusey/generator-gulp-sass-basic#readme",
+  "dependencies": {
+    "yeoman-generator": "^5.6.1"
+  }
+}
